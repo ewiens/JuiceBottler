@@ -1,4 +1,7 @@
 public class Orange {
+	/** The orange class was given to us by Nate Williams.
+	 * I only changed one line and added comments. **/
+	
     public enum State {
         Fetched(15), // status(time)
         Peeled(38),
